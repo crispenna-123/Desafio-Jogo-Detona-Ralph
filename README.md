@@ -41,7 +41,8 @@ O jogo começa automaticamente e o desafio é:
 
 ---
 
-🧠 Aprendizados
+## 🧠 Aprendizados
+
 Esse projeto é ideal para quem está aprendendo:
 
 Como criar um jogo básico no navegador.
